@@ -1,4 +1,4 @@
-# Predictive Modeling for Patient Readmission Rates
+# Hospital Readmission Project
 
 ## Overview
 
